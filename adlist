@@ -6,3 +6,28 @@ trc.dates-hub.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
 grs.hicloud.com
+
+# Riot eigene Telemetrie
+analytics.riotgames.com
+telemetry.riotgames.com
+events.riotgames.com
+metrics.riotgames.com
+crashreports.riotgames.com
+dradis-prod.rdatasrv.net
+rdatasrv.net
+
+
+# Crash Reports Drittanbieter
+ds.bugsplat.com
+bugsplat.com
+
+# User Analytics Drittanbieter
+cdn.segment.com
+api.segment.io
+
+# Error Tracking Drittanbieter
+sentry.io
+
+# Feature Flags / Remote Config
+app.launchdarkly.com
+clientstream.launchdarkly.com
