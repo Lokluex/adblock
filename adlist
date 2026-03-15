@@ -34,7 +34,12 @@ clientstream.launchdarkly.com
 
 
 #Meta Quest Telemetry
-telemetry.oculus.com
+graph.facebook.com
 graph.oculus.com
-corona.oculus.com
-pvr.oculus.com
+facebook-hardware.com
+facebook.net
+fbcdn.com
+fbsbx.com
+fbcdn.net
+fb.me
+crashlytics.com
